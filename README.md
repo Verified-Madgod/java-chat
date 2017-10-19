@@ -1,2 +1,3 @@
 # java-chat
-A Simple Java Chat
+A Chat Server & Client programmed in Java. This chat stores its logs in a MySQL DB. 
+
